@@ -1,4 +1,4 @@
-import * as Peko from "https://deno.land/x/peko/mod.ts"
+import * as Peko from "https://deno.land/x/peko@v0.2.0/mod.ts"
 
 import { renderToString } from "https://npm.reversehttp.com/preact,preact/hooks,htm/preact,preact-render-to-string"
 
